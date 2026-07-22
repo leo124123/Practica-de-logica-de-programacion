@@ -22,6 +22,7 @@ function isPalindrome(str) {
 console.log(isPalindrome("A man, a plan, a canal: Panama")); 
 console.log(isPalindrome("race a car"));
 console.log(isPalindrome("oso"));
+console.log(isPalindrome("Anita lava la tina"));
 
 // ==========================================
 // PRUEBAS DE VERIFICACIÓN (NO MODIFICAR)
